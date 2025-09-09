@@ -80,9 +80,10 @@ docker run hello-world
 
 **บันทึกผลการทดลอง - การเตรียมความพร้อม:**
 ```
-<img width="1264" height="801" alt="image" src="https://github.com/user-attachments/assets/3be490b4-2c85-4967-9bf0-1ce3861127c2" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/fe98824c-d078-4a5e-8168-f07567c13603" />
 
 ```
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/357c3b64-e274-4349-942b-cbd3b6c9176d" />
 
 ## ขั้นตอนการทดลอง
 
